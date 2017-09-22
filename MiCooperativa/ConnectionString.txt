@@ -1,0 +1,1 @@
+ConnectionString = "Host=localhost;Service=9092;Server=mi_cooperativa;Database=micooperativa;UID=informix;Password=dbInformix"

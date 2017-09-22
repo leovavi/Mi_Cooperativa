@@ -1,0 +1,9 @@
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\bin\Debug\MiCooperativa.exe.config
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\bin\Debug\MiCooperativa.exe
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\bin\Debug\MiCooperativa.pdb
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.csprojResolveAssemblyReference.cache
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.Form1.resources
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.Properties.Resources.resources
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.csproj.GenerateResource.Cache
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.exe
+C:\Users\Leovavi\Documents\Visual Studio 2015\Projects\MiCooperativa\MiCooperativa\obj\Debug\MiCooperativa.pdb
